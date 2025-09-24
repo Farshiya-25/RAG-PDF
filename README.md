@@ -83,7 +83,7 @@ langchain
 
 ```bash
 # Clone the repository
-git clone https://gitlab.siamcomputing.com/siamcomputing-training/cet/machine-learning/ml-interns/2025/kathija/rag-pdf.git
+git clone https://github.com/Farshiya-25/RAG-PDF
 
 cd pdf-rag-pinecone-gemini
 # Create virtual environment (optional but recommended)
