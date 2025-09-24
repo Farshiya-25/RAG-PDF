@@ -1,0 +1,6 @@
+streamlit
+pinecone
+pypdf
+python-dotenv
+google-generativeai
+langchain
